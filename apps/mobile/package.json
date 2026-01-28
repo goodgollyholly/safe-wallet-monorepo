@@ -96,7 +96,7 @@
     "expo-task-manager": "~13.1.5",
     "expo-web-browser": "~14.1.6",
     "freerasp-react-native": "^4.1.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "moti": "^0.29.0",
     "react": "^19.0.0",
     "react-dom": "19.0.0",
